@@ -1,0 +1,23 @@
+{
+  "name": "مدى الرؤية للأنظمة الأمنية وتقنية المعلومات",
+  "short_name": "مدى الرؤية",
+  "description": "حلول كاميرات المراقبة، الشبكات، أجهزة البصمة، وأنظمة الأمن المتكاملة في السعودية",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1b5bb6",
+  "icons": [
+    {
+      "src": "images/logo_shield.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/logo_shield.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
